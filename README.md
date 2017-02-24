@@ -11,6 +11,8 @@
 [![Coverage Status](https://coveralls.io/repos/yanyiwu/nodejieba/badge.svg?branch=master&service=github)](https://coveralls.io/github/yanyiwu/nodejieba?branch=master)
 - - -
 
+> 仅一点改变：始终删除非词库内出现的单字
+
 # NodeJieba "结巴"分词的Node.js版本 [English](README_EN.md)
 
 [![logo](http://7viirv.com1.z0.glb.clouddn.com/NodeJiebaLogo-v1.png)](https://github.com/yanyiwu/nodejieba)

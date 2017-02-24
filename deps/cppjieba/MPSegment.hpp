@@ -120,7 +120,7 @@ class MPSegment: public SegmentTagged {
         i += p->word.size();
       } else { //single chinese word
         WordRange wr(begin + i, begin + i);
-        words.push_back(wr);
+        // words.push_back(wr);
         i++;
       }
     }

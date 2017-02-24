@@ -1,10 +1,10 @@
 {
-  "name": "nodejieba",
+  "name": "nodejieba2",
   "description": "chinese word segmentation for node",
   "version": "2.2.4",
   "author": "Yanyi Wu <i@yanyiwu.com>",
   "maintainers": [
-    "Yanyi Wu <i@yanyiwu.com>"
+    "Tjatse <thisnamemeansnothing@gmail.com>"
   ],
   "main": "./index.js",
   "engines": {
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/yanyiwu/nodejieba.git"
+    "url": "http://github.com/Tjatse/nodejieba.git"
   },
   "keywords": [
     "chinese",
